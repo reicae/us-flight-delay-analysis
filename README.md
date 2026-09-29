@@ -1,8 +1,8 @@
-# electricity-demand-predictor
-Predicting electricity demand using historical weather and usage data. Built using Apache Spark.
+# us-flight-delay-analysis
+Predicting airline/airport delays and cancellations while checking if weather is a contributing factor. Using Apache Spark. 
 
 ## Question
-Can historical electricity usage and weather data predict the electricity demand at a day in advance, a week in advance, and a month in advance?
+Which airlines and airports have the worst flight delays and cancellation rates and how much does weather end up contributing to these delays. 
 
 ## Tech
 - Apache Spark
@@ -13,7 +13,7 @@ Can historical electricity usage and weather data predict the electricity demand
 
 ## Setup
 '''bash
-git clone https://github.com/reicae/electricity-demand-predictor.git
+git clone https://github.com/reicae/us-flight-delay-analysis.git
 cd electricity-demand-predictor
 python -m venv venv
 source venv/bin/activate  
