@@ -14,7 +14,7 @@ Which airlines and airports have the worst flight delays and cancellation rates 
 ## Setup
 '''bash
 git clone https://github.com/reicae/us-flight-delay-analysis.git
-cd electricity-demand-predictor
+cd us-flight-delay-analysis
 python -m venv venv
 source venv/bin/activate  
 pip install -r requirements.txt
